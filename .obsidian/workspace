@@ -109,6 +109,14 @@
             "file": "C.md"
           }
         }
+      },
+      {
+        "id": "624e47cc1bf3ddd3",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
