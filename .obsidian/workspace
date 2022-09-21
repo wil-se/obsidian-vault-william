@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "077e4d1e8caffbf6",
+    "id": "4c32eb3d93b0adef",
     "type": "split",
     "children": [
       {
-        "id": "16165c2415e4cfce",
+        "id": "5eeb5d151d7ba6de",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -19,122 +19,105 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2866e5b87cf141e7",
-    "type": "split",
+    "id": "9bd58e1a73c833b8",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "2fe952c14590d314",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dde6f94afffe0344",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "24cbbb63175d736e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "1f50d2bef9283104",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "540c79b21be455f1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "8378505e15b88e5f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "e8e326a3b0498996",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "77d95e9bad882060",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 230.5
+    "currentTab": 0
   },
   "right": {
-    "id": "a40b689b0db873a7",
-    "type": "split",
+    "id": "205acacf83ac7a72",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "817183149bf15eed",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b506c5e127e22219",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "C.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d10f98caf1580e66",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "C.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "7d44dd0fc14d5f49",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "97fe54f02d97898b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "C.md"
-              }
-            }
+        "id": "032d16a86f98c2f1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "C.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "972611943c36d3ee",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "C.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bae837b7fb70437b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "C.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "16165c2415e4cfce",
+  "active": "5eeb5d151d7ba6de",
   "lastOpenFiles": [
+    "C.md",
     "UNIX.md",
     "Symbolic Constants (C).md",
-    "Operating System.md",
-    "C.md",
-    "templates/Front Matter.md",
-    "Computer architecture.md"
+    "Operating System.md"
   ]
 }
