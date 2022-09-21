@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "077e4d1e8caffbf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "16165c2415e4cfce",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "C.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2866e5b87cf141e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fe952c14590d314",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dde6f94afffe0344",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "24cbbb63175d736e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f50d2bef9283104",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a40b689b0db873a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "817183149bf15eed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b506c5e127e22219",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d10f98caf1580e66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d44dd0fc14d5f49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97fe54f02d97898b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "16165c2415e4cfce",
+  "lastOpenFiles": [
+    "templates/Front Matter.md",
+    "C.md",
+    "Computer architecture.md"
+  ]
+}
