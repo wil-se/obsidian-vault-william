@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 230.5
   },
   "right": {
     "id": "a40b689b0db873a7",
@@ -131,8 +130,11 @@
   },
   "active": "16165c2415e4cfce",
   "lastOpenFiles": [
-    "templates/Front Matter.md",
+    "UNIX.md",
+    "Symbolic Constants (C).md",
+    "Operating System.md",
     "C.md",
+    "templates/Front Matter.md",
     "Computer architecture.md"
   ]
 }
