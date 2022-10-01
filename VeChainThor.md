@@ -110,3 +110,4 @@ Contract Params provides methods **get and set to check and set the global
 ##### 7. prototype.sol
 Contract Prototype is implemented to **facilitate MPP** and query information of a particular account. For the former purpose, it provides methods master, setMaster, creditPlan, setCreditPlan, isUser, userCredit, addUser, removeUser, sponsor, unsponsor, isSponsor, selectSponsor and currentSponsor. To query account information, it provides methods balance, energy, hasCode and storageFor.
 
+godo
